@@ -8,5 +8,12 @@
     "email": "hello@thomasrasshofer.com",
     "url": "http://thomasrasshofer.com/"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rasshofer/3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rasshofer/3/issues"
+  }
 }
