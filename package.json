@@ -1,0 +1,12 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "Three as a Service",
+  "main": "3.js",
+  "author": {
+    "name": "Thomas Rasshofer",
+    "email": "hello@thomasrasshofer.com",
+    "url": "http://thomasrasshofer.com/"
+  },
+  "license": "MIT"
+}
