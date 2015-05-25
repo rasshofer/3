@@ -6,9 +6,18 @@
 
 	npm install 3
 
+## Usage
+
+	var three = require('3');
+	console.log(three); // Amazing!
+
 ## Changelog
 
-* 0.0.1
+* 1.0.1
+	* Fix README
+	* Add information about how to use `3`
+	* Add repository information to `package.json`
+* 1.0.0
 	* Initial version
 
 ## TODO
